@@ -1,11 +1,14 @@
-# TOGAF Architecture Repository
+# TOGAF Content Framework and Enterprise Metamodel
 
-The TOGAF Standard provides a structural framework for an Architecture Repository,
-that allows an enterprise to distinguish between different types
-of architectural assets that exist at different levels of abstraction in the organization.
-This Architecture Repository is one part of the wider Enterprise Repository, which
-provides the capability to link architectural assets to components of the Detailed
-Design, Deployment, and Service Management Repositories.
+The TOGAF Content Framework and Enterprise Metamodel define a formal structure
+and also provide guidance for organizations that wish to implement their
+architecture within an architecture tool.
 
+The Content Framework defines a categorization framework to be used to structure
+the Architecture Description, the work product used to express an architecture, and
+the collection of models that describe the architecture.
 
-
+The Enterprise Metamodel defines the types of entities to appear in the models that
+describe the enterprise, together with the relationships between these entities. It
+allows architectural concepts to be captured, stored, filtered, queried, and
+represented in a way that supports consistency, completeness, and traceability.
