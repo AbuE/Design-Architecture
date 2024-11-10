@@ -1,4 +1,4 @@
-# Risk Management** 
+# Risk Management
  This information is typically stored in the **Governance Repository**. The Governance Repository is a central location for all governance-related documentation, tools, and artifacts, and it supports the management of the architecture throughout its lifecycle, including the management of risks.
 
 ### Risk Management in the Governance Repository
