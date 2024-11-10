@@ -1,4 +1,4 @@
-#Architecture Method or Architecture Development Method (ADM)
+# Architecture Method or Architecture Development Method (ADM)
 
 It is a central of TOGAF that provides a structured, iterative approach for creating, managing, and evolving an enterprise architecture. It defines steps, techniques, and deliverables to help architects build a comprehensive and flexible architecture that aligns with an organization’s objectives.
 
