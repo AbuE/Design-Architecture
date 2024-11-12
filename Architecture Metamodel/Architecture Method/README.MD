@@ -4,13 +4,18 @@ It is a central of TOGAF that provides a structured, iterative approach for crea
 
 The ADM cycle in TOGAF includes the following phases:
 
-1. **Preliminary Phase:** Prepare and set up the architecture project, define the architecture principles, and secure organizational support. To develop the Enterprise Architecture Capability.
-2. **Phase A – Architecture Vision:** Define the scope, stakeholders, and high-level vision of the architecture project.
-3. **Phase B – Business Architecture:** Develop business architecture based on business strategy and requirements.
-4. **Phase C – Information Systems Architecture:** Develop the data and application architecture necessary to support the business architecture.
-5. **Phase D – Technology Architecture:** Define the technology architecture to support the application and data architectures.
-6. **Phase E – Opportunities and Solutions:** Identify and prioritize solutions, and formulate an implementation and migration strategy.
-7. **Phase F – Migration Planning:** Create a detailed plan for implementing the chosen architecture.
+1. **Preliminary Phase:** This phase is used for developing the Enterprise Architecture Capability.
+2. **Phase A – Architecture Vision:** Purpose of this phase is to identify key stakeholders, and reach agreement in the Architecture Vision document on a summary 
+               of the target and the work to reach the target.
+3. **Phase B – Business Architecture:** Develop the Target Business Architecture that describes how the enterprise needs to operate to achieve the business goals, 
+               and respond to the strategic drivers set out in the Architecture Vision, in a way that addresses the Statement of Architecture Work and stakeholder 
+               concerns. Gap Analysis is done in this phase.
+4. **Phase C – Information Systems Architecture:** Develop the Target Data architecture and Target Application architecture necessary to support the business 
+               architecture. Gap Analysis is also done during this phase.
+5. **Phase D – Technology Architecture:** Define the Target Technology architecture to support the application and data architectures, and do Gap analysis.
+6. **Phase E – Opportunities and Solutions:** Define Architecture Roadmap and Solution Building Blocks.
+7. **Phase F – Migration Planning:** Purpose of this phase is to define an approved set of projects, containing the objective and any necessary constraints, resources required, and start and finish
+                                     dates.
 8. **Phase G – Implementation Governance:** Oversee the architecture implementation, ensuring it aligns with the architecture vision.
 9. **Phase H – Architecture Change Management:** Manage and adapt the architecture as necessary based on evolving business needs.
 
