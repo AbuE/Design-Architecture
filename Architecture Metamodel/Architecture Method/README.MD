@@ -12,7 +12,7 @@ The ADM cycle in TOGAF includes the following phases:
                concerns. Gap Analysis is done in this phase.
 4. **Phase C – Information Systems Architecture:** Develop the Target Data architecture and Target Application architecture necessary to support the business 
                architecture. Gap Analysis is also done during this phase.
-5. **Phase D – Technology Architecture:** Define the Target Technology architecture to support the application and data architectures, and do Gap analysis.
+5. **Phase D – Technology Architecture:** Define the Target Technology architecture to support the application and data architectures, and do Gap analysis. Technical Design Documenatation happens during this phase.
 6. **Phase E – Opportunities and Solutions:** Define Architecture Roadmap and Solution Building Blocks.
 7. **Phase F – Migration Planning:** This ADM Phase finalizes a detailed plan for moving from the Baseline Architecture to the Target Architecture.
 8. **Phase G – Implementation Governance:** Oversee the architecture implementation, ensuring it aligns with the architecture vision.
