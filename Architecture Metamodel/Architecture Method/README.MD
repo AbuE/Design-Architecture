@@ -4,7 +4,7 @@ It is a central of TOGAF that provides a structured, iterative approach for crea
 
 The ADM cycle in TOGAF includes the following phases:
 
-1. **Preliminary Phase:** Prepare and set up the architecture project, define the architecture principles, and secure organizational support.
+1. **Preliminary Phase:** Prepare and set up the architecture project, define the architecture principles, and secure organizational support. To develop the Enterprise Architecture Capability.
 2. **Phase A – Architecture Vision:** Define the scope, stakeholders, and high-level vision of the architecture project.
 3. **Phase B – Business Architecture:** Develop business architecture based on business strategy and requirements.
 4. **Phase C – Information Systems Architecture:** Develop the data and application architecture necessary to support the business architecture.
